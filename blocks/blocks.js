@@ -1,7 +1,7 @@
 Blockly.defineBlocksWithJsonArray([
 {
   "type": "dht12_read",
-  "message0": "DHT12 read %3",
+  "message0": "DHT12 read %1",
   "args0": [
     {
       "type": "field_dropdown",
